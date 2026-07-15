@@ -12,11 +12,11 @@
 
 ### About Me
 
-I'm a Full-Stack Engineer with 5 years of experience building production web applications in TypeScript and React, with hands-on backend work in Node.js/Express and cross-platform mobile in React Native. I ship features end to end - from API and data-model design through polished, intuitive UI - and take high ownership on small, fast-moving Agile teams.
+I'm a Full-Stack Engineer with 5 years of experience building production web applications in TypeScript and React, with hands-on backend work in Node.js and cross-platform mobile in React Native. I ship features end to end - from API and data-model design through polished, intuitive UI - and take high ownership on small, fast-moving Agile teams.
 
-- Comfortable applying common system design patterns, RESTful APIs, and cloud infrastructure (AWS, Azure) to build reliable products
-- Experience across React, Redux, Next.js and React Native for web and mobile
-- Backend experience with Node.js, Express, and Java/Spring Boot
+- Comfortable applying common system design patterns, RESTful APIs, and cloud infrastructure (AWS) to build reliable products
+- Experience across React, Next.js and React Native for web and mobile
+- Backend experience with Node.js and Java/Spring Boot
 - Strong interest in UI/UX design and getting the small details right
 
 ---
@@ -29,31 +29,25 @@ I'm a Full-Stack Engineer with 5 years of experience building production web app
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
