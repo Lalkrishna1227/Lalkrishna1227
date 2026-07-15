@@ -66,6 +66,18 @@ I'm a Full-Stack Engineer with 5 years of experience building production web app
 
 ---
 
+### Mini Projects
+
+A couple of small, self-contained projects that demonstrate end-to-end ownership across the stack.
+
+**[react-task-tracker](https://github.com/Lalkrishna1227/react-task-tracker)**
+A React + TypeScript task tracker with add/complete/delete/filter actions and localStorage persistence. Focused on clean component structure and hooks-based state management.
+
+**[express-notes-api](https://github.com/Lalkrishna1227/express-notes-api)**
+A Node.js + Express + TypeScript REST API with full CRUD for notes, request validation, and an automated Jest/Supertest suite.
+
+---
+
 ### Social Media
 
 <p align="left">
