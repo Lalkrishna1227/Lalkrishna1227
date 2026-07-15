@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Lalkrishna+Kondapaneni;Frontend+Developer+%7C+3+Years+of+Experience;React+%2B+TypeScript+%2B+Node.js;Crafting+clean+%26+scalable+web+experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Lalkrishna+Kondapaneni;Full-Stack+Engineer+%7C+5+Years+of+Experience;TypeScript+%2B+React+%2B+Node.js;Shipping+features+end+to+end%2C+API+to+UI" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lalkrishna1227&color=61DAFB&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -12,14 +12,12 @@
 
 ### About Me
 
-I'm Lalkrishna Kondapaneni, a Frontend Developer with 3 years of experience building fast, accessible, and user-friendly web applications. I enjoy turning complex problems into clean, intuitive interfaces and I'm always sharpening my craft with new tools and patterns.
+I'm a Full-Stack Engineer with 5 years of experience building production web applications in TypeScript and React, with hands-on backend work in Node.js/Express and cross-platform mobile in React Native. I ship features end to end - from API and data-model design through polished, intuitive UI - and take high ownership on small, fast-moving Agile teams.
 
-Beyond code, I love sharing what I learn - you'll find me creating content on YouTube, writing on Medium, and posting on Instagram to help other developers grow.
-
-- Currently building modern UIs with React and TypeScript
-- Always learning something new across the JS ecosystem
-- Creating content on YouTube, Medium and Instagram
-- Fun fact: I debug better with coffee in hand
+- Comfortable applying common system design patterns, RESTful APIs, and cloud infrastructure (AWS, Azure) to build reliable products
+- Experience across React, Redux, Next.js and React Native for web and mobile
+- Backend experience with Node.js, Express, and Java/Spring Boot
+- Strong interest in UI/UX design and getting the small details right
 
 ---
 
@@ -30,13 +28,40 @@ Beyond code, I love sharing what I learn - you'll find me creating content on Yo
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Testing**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 **Tools**
 
@@ -86,4 +111,4 @@ Beyond code, I love sharing what I learn - you'll find me creating content on Yo
 </a>
 </p>
 
-Thanks for stopping by - always open to connecting with fellow developers and interesting projects. Let's build something great together!
+Thanks for stopping by - always open to connecting with fellow engineers and interesting full-stack problems. Let's build something great together!
