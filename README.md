@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:D4AF37&height=220&section=header&text=Lalkrishna%20Kondapaneni&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20TypeScript%20%2B%20React%20%2B%20Node.js&descAlignY=52&descSize=18&descColor=FFD700" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Lalkrishna+Kondapaneni;Full-Stack+Engineer+%7C+5+Years+of+Experience;TypeScript+%2B+React+%2B+Node.js;Shipping+features+end+to+end%2C+API+to+UI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=D4AF37&background=00000000&center=true&vCenter=true&width=650&lines=5+Years+of+Full-Stack+Experience;Shipping+features+end+to+end%2C+API+to+UI;Always+learning%2C+always+building" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lalkrishna1227&color=61DAFB&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Lalkrishna1227&color=D4AF37&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lalkrishna1227.github.io-9e8857?style=for-the-badge)](https://lalkrishna1227.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lalkrishna1227.github.io-D4AF37?style=for-the-badge&labelColor=000000)](https://lalkrishna1227.github.io/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/krishna1906)
 
 </div>
 
 ---
 
-### About Me
+<h3 align="center">💛 About Me</h3>
 
 I'm a Full-Stack Engineer with 5 years of experience building production web applications in TypeScript and React, with hands-on backend work in Node.js and cross-platform mobile in React Native. I ship features end to end - from API and data-model design through polished, intuitive UI - and take high ownership on small, fast-moving Agile teams.
 
@@ -23,52 +25,52 @@ I'm a Full-Stack Engineer with 5 years of experience building production web app
 
 ---
 
-### Tech Stack
+<h3 align="center">💛 Tech Stack</h3>
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=D4AF37)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=D4AF37)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=D4AF37)
+![React Native](https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=D4AF37)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=D4AF37)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=D4AF37)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=D4AF37)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=D4AF37)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=D4AF37)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=D4AF37)
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=D4AF37)
+![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=D4AF37)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=D4AF37)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=D4AF37)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=D4AF37)
+![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=D4AF37)
 
 **Testing**
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=D4AF37)
+![Mocha](https://img.shields.io/badge/Mocha-000000?style=for-the-badge&logo=mocha&logoColor=D4AF37)
+![JUnit](https://img.shields.io/badge/JUnit-000000?style=for-the-badge&logo=junit5&logoColor=D4AF37)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=D4AF37)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=D4AF37)
+![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=D4AF37)
 
 ---
 
-### Mini Projects
+<h3 align="center">💛 Mini Projects</h3>
 
 A couple of small, self-contained projects that demonstrate end-to-end ownership across the stack.
 
@@ -80,30 +82,32 @@ A Node.js + Express + TypeScript REST API with full CRUD for notes, request vali
 
 ---
 
-### Social Media
+<h3 align="center">💛 Social Media</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/krishna1906" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" />
 </a>
 </p>
 
 ---
 
-### GitHub Stats
+<h3 align="center">💛 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalkrishna1227&theme=tokyonight" alt="GitHub Streak" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalkrishna1227&background=000000&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&dates=999999&border=D4AF37" alt="GitHub Streak" width="60%" />
 </p>
 
 ---
 
-### Let's Connect
+<h3 align="center">💛 Let's Connect</h3>
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/krishna1906" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" />
 </a>
 </p>
 
-Thanks for stopping by - always open to connecting with fellow engineers and interesting full-stack problems. Let's build something great together!
+<p align="center">Thanks for stopping by - always open to connecting with fellow engineers and interesting full-stack problems. Let's build something great together!</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:000000&height=100&section=footer" width="100%"/>
