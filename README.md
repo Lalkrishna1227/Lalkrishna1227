@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:D4AF37&height=220&section=header&text=Lalkrishna%20Kondapaneni&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20TypeScript%20%2B%20React%20%2B%20Node.js&descAlignY=52&descSize=18&descColor=FFD700" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=D4AF37&background=00000000&center=true&vCenter=true&width=650&lines=5+Years+of+Full-Stack+Experience;Shipping+features+end+to+end%2C+API+to+UI;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=22&pause=1000&color=D4AF37&background=000000&center=true&vCenter=true&width=650&height=60&lines=5+Years+of+Full-Stack+Experience;Shipping+features+end+to+end%2C+API+to+UI;Always+learning%2C+always+building" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lalkrishna1227&color=D4AF37&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000)
 
