@@ -12,9 +12,7 @@
 
 </div>
 
----
-
-<h3 align="center">💛 About Me</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=About%20Me&fontSize=22&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
 
 I'm a Full-Stack Engineer with 5 years of experience building production web applications in TypeScript and React, with hands-on backend work in Node.js and cross-platform mobile in React Native. I ship features end to end - from API and data-model design through polished, intuitive UI - and take high ownership on small, fast-moving Agile teams.
 
@@ -23,9 +21,7 @@ I'm a Full-Stack Engineer with 5 years of experience building production web app
 - Backend experience with Node.js and Java/Spring Boot
 - Strong interest in UI/UX design and getting the small details right
 
----
-
-<h3 align="center">💛 Tech Stack</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=Tech%20Stack&fontSize=22&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
 
 **Frontend**
 
@@ -68,9 +64,7 @@ I'm a Full-Stack Engineer with 5 years of experience building production web app
 ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=D4AF37)
 ![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=D4AF37)
 
----
-
-<h3 align="center">💛 Mini Projects</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=Mini%20Projects&fontSize=22&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
 
 A couple of small, self-contained projects that demonstrate end-to-end ownership across the stack.
 
@@ -80,9 +74,7 @@ A React + TypeScript task tracker with add/complete/delete/filter actions and lo
 **[express-notes-api](https://github.com/Lalkrishna1227/express-notes-api)**
 A Node.js + Express + TypeScript REST API with full CRUD for notes, request validation, and an automated Jest/Supertest suite.
 
----
-
-<h3 align="center">💛 Social Media</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=Social%20Media&fontSize=22&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/krishna1906" target="_blank">
@@ -90,17 +82,13 @@ A Node.js + Express + TypeScript REST API with full CRUD for notes, request vali
 </a>
 </p>
 
----
-
-<h3 align="center">💛 GitHub Stats</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=GitHub%20Stats&fontSize=22&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalkrishna1227&background=000000&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&dates=999999&border=D4AF37" alt="GitHub Streak" width="60%" />
 </p>
 
----
-
-<h3 align="center">💛 Let's Connect</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=55&section=header&text=Let's%20Connect&fontSize=22&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/krishna1906" target="_blank">
