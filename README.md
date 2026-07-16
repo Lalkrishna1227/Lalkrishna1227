@@ -93,20 +93,7 @@ A Node.js + Express + TypeScript REST API with full CRUD for notes, request vali
 ### GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lalkrishna1227&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalkrishna1227&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalkrishna1227&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Lalkrishna1227&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalkrishna1227&theme=tokyonight" alt="GitHub Streak" width="60%" />
 </p>
 
 ---
