@@ -6,6 +6,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lalkrishna1227&color=61DAFB&style=for-the-badge&label=PROFILE+VIEWS)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-lalkrishna1227.github.io-9e8857?style=for-the-badge)](https://lalkrishna1227.github.io/)
+
 </div>
 
 ---
